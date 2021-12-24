@@ -84,3 +84,25 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+.closure {
+    color: white;
+    background-color: red;
+    font-size: 2em;
+}
+
+ol{
+    display: inline-block;
+}
+nav .current {
+    background-color: rgb(216, 218, 219) ;
+
+}
+footer{
+    background-color: green;
+}
+
+.foot{
+    color: rgb(58, 5, 128);
+    
+}
